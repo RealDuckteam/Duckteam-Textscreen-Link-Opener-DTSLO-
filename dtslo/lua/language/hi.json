@@ -1,0 +1,15 @@
+{
+    "admin_required": "आपको इस कमांड का उपयोग करने के लिए व्यवस्थापक होना चाहिए।",
+    "please_provide_url": "कृपया एक वैध URL प्रदान करें!",
+    "invalid_url": "अवैध URL! URL को 'http://' या 'https://' से शुरू होना चाहिए।",
+    "not_looking_at_textscreen": "आप एक वैध टेक्स्टस्क्रीन की ओर नहीं देख रहे हैं!",
+    "url_already_exists": "इस टेक्स्टस्क्रीन के पास पहले से एक URL है। कृपया पुराने URL को हटाकर नया जोड़ें।",
+    "url_added": "URL टेक्स्टस्क्रीन में जोड़ा गया",
+    "urls_loaded": "DTSLO: URLs लोड हो गईं।",
+    "no_urls_found": "DTSLO: कोई URL नहीं मिला। नया फ़ाइल बनाया गया है।",
+    "urls_saved": "DTSLO: URLs सहेजी गईं।",
+    "missing_translation_file": "DTSLO: अनुवाद फ़ाइल नहीं मिली। डिफ़ॉल्ट संदेश का उपयोग किया जाएगा।",
+    "url_removed_from_textscreen": "DTSLO: URL टेक्स्टस्क्रीन से हटा दी गई।",
+    "url_removed": "इस टेक्स्टस्क्रीन का URL हटा दिया गया।",
+    "no_url_to_remove": "इस टेक्स्टस्क्रीन का कोई URL नहीं है जिसे आप हटा सकें।"
+}
