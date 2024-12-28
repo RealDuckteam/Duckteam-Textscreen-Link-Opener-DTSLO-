@@ -27,7 +27,7 @@ With support for multiple languages 🌍 and extensive customization options, DT
 ---
 
 ## 🛠️ **Commands:**  
-- `dtslo_add`: Add a URL to the currently viewed textscreen.  
+- `dtslo_add "URL"`: Add a URL to the currently viewed textscreen.  
 - `dtslo_remove`: Remove the URL from the currently viewed textscreen.  
 - **More commands coming soon!**  
 
