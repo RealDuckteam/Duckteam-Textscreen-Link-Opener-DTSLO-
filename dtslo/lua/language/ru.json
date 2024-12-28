@@ -1,0 +1,15 @@
+{
+    "admin_required": "Для использования этой команды вы должны быть администратором.",
+    "please_provide_url": "Пожалуйста, укажите действующий URL!",
+    "invalid_url": "Недействительный URL! URL должен начинаться с 'http://' или 'https://'.",
+    "not_looking_at_textscreen": "Вы не смотрите на действующий Textscreen!",
+    "url_already_exists": "Этот Textscreen уже имеет URL. Удалите старый URL перед добавлением нового.",
+    "url_added": "URL добавлен в Textscreen",
+    "urls_loaded": "DTSLO: URLs загружены.",
+    "no_urls_found": "DTSLO: Не найдено сохраненных URL. Был создан новый файл.",
+    "urls_saved": "DTSLO: URLs сохранены.",
+    "missing_translation_file": "DTSLO: Файл перевода не найден. Будут использованы стандартные сообщения.",
+    "url_removed_from_textscreen": "DTSLO: URL удален с Textscreen.",
+    "url_removed": "URL для этого Textscreen был удален.",
+    "no_url_to_remove": "У этого Textscreen нет URL для удаления."
+}

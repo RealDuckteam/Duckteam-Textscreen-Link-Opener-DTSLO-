@@ -1,0 +1,15 @@
+{
+    "admin_required": "Du musst Administrator sein, um diesen Befehl auszuführen.",
+    "please_provide_url": "Bitte gib eine gültige URL an!",
+    "invalid_url": "Ungültige URL! Die URL muss mit 'http://' oder 'https://' beginnen.",
+    "not_looking_at_textscreen": "Du schaust nicht auf einen gültigen Textscreen!",
+    "url_already_exists": "Dieser Textscreen hat bereits einen Link. Lösche den alten Link, bevor du einen neuen hinzufügst.",
+    "url_added": "URL wurde zum Textscreen hinzugefügt",
+    "urls_loaded": "DTSLO: URLs geladen.",
+    "no_urls_found": "DTSLO: Keine gespeicherten URLs gefunden. Eine neue Datei wurde erstellt.",
+    "urls_saved": "DTSLO: URLs gespeichert.",
+    "missing_translation_file": "DTSLO: Sprachdatei nicht gefunden. Standardtexte werden verwendet.",
+    "url_removed_from_textscreen": "DTSLO: URL für Textscreen entfernt.",
+    "url_removed": "Der Link für diesen Textscreen wurde gelöscht.",
+    "no_url_to_remove": "Dieser Textscreen hat keinen Link, den du löschen könntest."
+}

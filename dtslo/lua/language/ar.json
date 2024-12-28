@@ -1,0 +1,15 @@
+{
+    "admin_required": "يجب أن تكون مسؤولًا لاستخدام هذا الأمر.",
+    "please_provide_url": "يرجى تقديم عنوان URL صالح!",
+    "invalid_url": "عنوان URL غير صالح! يجب أن يبدأ عنوان URL بـ 'http://' أو 'https://'.",
+    "not_looking_at_textscreen": "أنت لا تنظر إلى شاشة نصية صالحة!",
+    "url_already_exists": "هذه الشاشة النصية تحتوي بالفعل على عنوان URL. يرجى حذف العنوان القديم قبل إضافة عنوان جديد.",
+    "url_added": "تم إضافة عنوان URL إلى الشاشة النصية",
+    "urls_loaded": "DTSLO: تم تحميل عناوين URL.",
+    "no_urls_found": "DTSLO: لم يتم العثور على أي عناوين URL محفوظة. تم إنشاء ملف جديد.",
+    "urls_saved": "DTSLO: تم حفظ عناوين URL.",
+    "missing_translation_file": "DTSLO: لم يتم العثور على ملف الترجمة. سيتم استخدام الرسائل الافتراضية.",
+    "url_removed_from_textscreen": "DTSLO: تم إزالة عنوان URL من الشاشة النصية.",
+    "url_removed": "تم إزالة عنوان URL لهذه الشاشة النصية.",
+    "no_url_to_remove": "لا توجد URL لإزالتها من هذه الشاشة النصية."
+}
